@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.truelayer.authenticator",
+    "sha256_cert_fingerprints":
+    ["8B:CC:88:A4:32:E8:94:1F:50:ED:67:12:0A:8E:2C:87:CC:D2:D7:28:FF:77:89:DE:43:2F:29:51:23:DC:3D:68"]
+  }
+}]
